@@ -1,5 +1,8 @@
 # Drink Dispenser
 
-A drink dispenser is a machine that provides drinks to the consumers after a selection is made. For the project we have selection of four drinks of color Blue, Magenta, Red and Green. An indicator is shown above every dispenser which is changed from Red to Green if the drink must be dispensed.
+The drink dispenser provides drinks to consumers who make the necessary selections. For the project, we have an option to select four drinks of Blue, Magenta, Red, and Green color. The indicator, present above every dispenser, changes its color from Red to Green while a drink is being poured. The code is developed with the graphics library of C programming (graphics.h).
 
-Code to be added soon...
+
+## Code Execution example:
+
+![execute](https://github.com/ViditSave/Drink-Dispenser/blob/master/Video/3%20Drinks.gif)
